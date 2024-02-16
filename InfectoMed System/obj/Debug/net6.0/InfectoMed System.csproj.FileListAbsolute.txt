@@ -1,0 +1,12 @@
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\bin\Debug\net6.0\InfectoMed System.deps.json
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\bin\Debug\net6.0\InfectoMed System.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\bin\Debug\net6.0\InfectoMed System.pdb
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.csproj.AssemblyReference.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.AssemblyInfo.cs
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\refint\InfectoMed System.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\InfectoMed System.pdb
+C:\Users\x\Documents\Programming\VERANO\InfectoMed System\obj\Debug\net6.0\ref\InfectoMed System.dll

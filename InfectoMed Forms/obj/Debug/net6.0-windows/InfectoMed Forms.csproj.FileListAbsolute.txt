@@ -1,0 +1,75 @@
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed Forms.exe
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed Forms.deps.json
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed Forms.runtimeconfig.json
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed Forms.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed Forms.pdb
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed System.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\InfectoMed System.pdb
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.csproj.AssemblyReference.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.InicioSesion.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.PanelMedico.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.RegistroMedico.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.csproj.GenerateResource.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.AssemblyInfo.cs
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.csproj.CopyComplete
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\refint\InfectoMed Forms.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.pdb
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed Forms.genruntimeconfig.cache
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\ref\InfectoMed Forms.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.RegistroPaciente.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.ConsultaParte1.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.ConsultaParte2.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.ConsultaParte3.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.PanelPaciente.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.TratamientoOrden.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\MigraDoc.Rendering-gdi.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\MigraDoc.RtfRendering-gdi.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\PdfSharp-gdi.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\PdfSharp.Charting-gdi.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\de\PdfSharp-gdi.resources.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\bin\Debug\net6.0-windows\de\PdfSharp.Charting-gdi.resources.dll
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.Paneles.PanelAyuda.resources
+C:\Users\x\Documents\Programming\VERANO\InfectoMed Forms\obj\Debug\net6.0-windows\InfectoMed_Forms.Properties.Resources.resources
